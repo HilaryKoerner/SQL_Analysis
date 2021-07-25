@@ -1,4 +1,4 @@
-# SQL_Analysis
+# SQL City Database - Queries and Filters
 
 ##City Database
 SQL queries to create a table, insert values, and run filters. 
